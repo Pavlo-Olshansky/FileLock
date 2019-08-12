@@ -1,1 +1,1 @@
-from filelock import * # noqa
+import filelock
